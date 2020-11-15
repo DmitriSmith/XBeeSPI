@@ -1,0 +1,7 @@
+XBEE3SPI KEYWORD1
+readPacket KEYWORD2
+begin KEYWORD2
+getResponse KEYWORD2
+transmit KEYWORD2
+setSPI KEYWORD2
+setInterruptPin KEYWORD2
